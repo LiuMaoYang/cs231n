@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//cs231n/classifiers/fc_net.py=utf-8
+encoding//cs231n/layer_utils.py=utf-8
+encoding//cs231n/layers.py=utf-8
+encoding//cs231n/optim.py=utf-8
+encoding//cs231n/solver.py=utf-8
+encoding/BatchNormalization.py=utf-8
+encoding/ConvolutionalNetworks.py=utf-8
+encoding/Dropout.py=utf-8
+encoding/FullyConnectedNets.py=utf-8
